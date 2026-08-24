@@ -9682,3 +9682,59 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.about-bio {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 16px;
+  line-height: 1.8; }
+
+.ftco-about ul.about-info li span a {
+  color: #ffbd39; }
+
+.ftco-about ul.about-info li span a:hover {
+  color: #fff; }
+
+.resume-wrap .date {
+  font-size: 20px; }
+
+.resume-wrap p {
+  color: rgba(255, 255, 255, 0.75);
+  margin-bottom: 0; }
+
+.resume-wrap ul {
+  padding-left: 18px;
+  margin-bottom: 0;
+  color: rgba(255, 255, 255, 0.75); }
+
+.resume-wrap ul li {
+  margin-bottom: 8px; }
+
+.resume-wrap ul li strong {
+  color: #fff; }
+
+.skill-group-title {
+  color: #fff;
+  font-size: 18px;
+  margin: 24px 0 12px; }
+
+.skill-tags span {
+  display: inline-block;
+  padding: 6px 14px;
+  margin: 0 8px 10px 0;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 189, 57, 0.25);
+  border-radius: 4px;
+  font-size: 13px;
+  color: #fff; }
+
+.project .overlay {
+  opacity: 0.35; }
+
+.project .text {
+  opacity: 1; }
+
+.project .text h3 {
+  color: #fff; }
+
+.services-1 {
+  cursor: default; }
