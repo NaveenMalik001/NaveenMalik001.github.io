@@ -9741,3 +9741,9 @@ textarea.form-control {
 
 .services-1 {
   cursor: default; }
+
+.home-slider .owl-item {
+  pointer-events: none; }
+
+.home-slider .owl-item.active {
+  pointer-events: auto; }
